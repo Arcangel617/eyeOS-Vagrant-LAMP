@@ -1,5 +1,6 @@
 # Instalación de eyeOS utilizando Vagrant, Ubuntu 12.04 (precise), Apache, PHP5 y MySQL  
-Ésta guía fue realizada con el fin de demostrar la existencia de sistemas operativos en la nube. Cabe aclarar que el proyecto
+Ésta guía fue realizada con el fin de demostrar la existencia de sistemas operativos en la nube.
+
 ### ¿Qué es eyeOS?
 eyeOS es una plataforma de nube privada con una interfaz de escritorio basada en la web. Comúnmente llamado escritorio en la nube por su interfaz única, eyeOS proporciona un escritorio completo desde la nube con gestión de archivos, herramientas de gestión de la información personal, herramientas colaborativas y aplicaciones de la compañía.
 
@@ -10,7 +11,7 @@ La diferencia entre otros entornos escritorio al hacer posible iniciar el escrit
 #### Consideraciones previas
 - Se asume que [Vagrant](https://www.vagrantup.com/) ya está instalado en el sistema host. 
 - Ubuntu 12.04 dejó de tener soporte en Abril de 2017
-- eyeOS tambien dejó de tener soporte
+- eyeOS también dejó de tener soporte
 
 #### Requerimientos
 - Vagrant
